@@ -67,7 +67,7 @@ Class-Path: gson.jar
 
 ### NOTA: para ejecutar 
 ```
-	java -jar miApp.jar                         //  en lugar de  
+	java -jar miApp.jar                       
 	java -cp "miApp.jar;gson.jar" Navixy
 ```
 ``
